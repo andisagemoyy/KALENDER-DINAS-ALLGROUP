@@ -1,0 +1,32 @@
+{
+  "id": "./",
+  "name": "Dinesan Andyking — Kalender Dinas Grup A–D",
+  "short_name": "Dinesan Andyking",
+  "description": "Kalender dinas Grup A, B, C, D dengan pola 6 hari kerja, 2 hari libur, foto timestamp dan dinas tambahan.",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#1468d8",
+  "background_color": "#edf4ff",
+  "icons": [
+    {
+      "src": "icons/kai-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/kai-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/kai-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
